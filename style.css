@@ -1,0 +1,13 @@
+body {
+    font-size: 15pt;
+}
+table {
+  height: 500px;
+  width: 500px;
+  border-color: black;
+  border: solid;
+}
+.black {
+  background-color: black;
+  height: 50px;
+}
